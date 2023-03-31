@@ -1,14 +1,15 @@
-Predictive Modeling using Machine Learning Algorithms
-This repository contains Jupyter Notebooks demonstrating the implementation of various machine learning algorithms for predictive modeling.
+
+This repository contains Jupyter Notebooks demonstrating the implementation of various machine learning algorithms for Fresh Water Detection
 
 Table of Contents
 
-Introduction
-Technologies Used
-Algorithms Implemented
-Dataset
-Notebook Descriptions
-Conclusion
+1. Introduction
+2. Technologies Used
+3. Algorithms Implemented
+4. Dataset
+5. Notebook Descriptions
+6. Conclusion
+
 Introduction
 
 In this repository, we demonstrate the implementation of several popular machine learning algorithms for predictive modeling. We use a dataset of [insert dataset description here] to train and test our models.
